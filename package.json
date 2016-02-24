@@ -1,0 +1,20 @@
+{
+  "name": "confluence-soap-api",
+  "version": "1.0.3",
+  "description": "Atlassian Confluence client library based on its SOAP API.",
+  "main": "confluence.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oemerismail/npm-confluence-soap-api"
+  },
+  "keywords": [
+    "confluence",
+    "soap",
+    "api"
+  ],
+  "author": "Oemer Ismail <oemer.1992@hotmail.com>",
+  "license": "ISC"
+}
